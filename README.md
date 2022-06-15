@@ -1,3 +1,3 @@
-# Projeto Dio recriando página inicial do Instagram, utlizando flexbox.
+# Projeto Dio - Recriando página inicial do Instagram, utlizando flexbox.
 
-## Aproveitando o mês da Diversidade, através do conhecimento adquirido no curso, modifiquei alguns detalhes para deixar mais pessoal 
+## Aproveitando o mês da Diversidade e através do conhecimento adquirido no curso, realizei algumas modificações no projeto.
